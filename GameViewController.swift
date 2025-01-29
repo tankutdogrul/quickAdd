@@ -2,7 +2,7 @@
 //  GameViewController.swift
 //  quickAdd iOS
 //
-//  Created by Gokce Durusoy on 22.01.2025.
+//  Created by Tankut Dogrul on 22.01.2025.
 //
 
 import UIKit
